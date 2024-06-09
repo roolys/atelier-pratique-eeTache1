@@ -10,7 +10,7 @@ const timerElement = document.querySelector('#timer');
 
 // Variables pour le chronomètre
 let timer;
-let minutes = 20;
+let minutes = 10;
 let seconds = 0;
 
 // Fonction pour démarrer le chronomètre
